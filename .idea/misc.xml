@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/button_bg.xml" value="0.13425925925925927" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.11851851851851852" />
+        <entry key="app/src/main/res/drawable/transparent_background.xml" value="0.13425925925925927" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_add.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_bottom_nav.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login_page.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10511651469098278" />
+        <entry key="app/src/main/res/layout/activity_onboard1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

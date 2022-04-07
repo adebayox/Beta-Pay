@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/signin"
+    tools:context=".login_page">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:text=""
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:paddingVertical="71dp"
+        android:textSize="23dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Matric No"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="@color/black"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="30dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="@color/black"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:inputType="textPassword"
+        android:layout_marginBottom="30dp"
+        />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign In"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/button_bg"
+        android:textColor="#fafafa"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No Account Yet? Create An Account"
+        android:textSize="15dp"
+        android:textAlignment="center"
+        />
+
+
+</LinearLayout>
