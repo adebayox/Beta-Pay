@@ -13,6 +13,8 @@ import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
+//    Handler h = new Handler();
+
 
     Animation zoom;
     ImageView img;
@@ -21,6 +23,15 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+//
+//        h.postDelayed(new Runnable() {
+//            @Override
+//            public void run() {
+//                Intent i = new Intent(MainActivity.this,onboard1.class);
+//                startActivity(i);
+//                finish();
+//            }
+//        }, 5000);
 
         zoom = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.zoom);
         img = findViewById(R.id.image);
@@ -32,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         h.postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent i = new Intent(MainActivity.this, Signup.class);
+                Intent i = new Intent(MainActivity.this, onboard1.class);
                 startActivity(i);
                 finish();
 

@@ -12,12 +12,15 @@
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_login_page.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10511651469098278" />
-        <entry key="app/src/main/res/layout/activity_onboard1.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_onboard1.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_onboard2.xml" value="0.22418478260869565" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_settings.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_student_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.1" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
       </map>
     </option>

@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BetaPay">
         <activity
+            android:name=".onboard2"
+            android:exported="false" />
+        <activity
+            android:name=".student_details"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
             android:name=".onboard1"
             android:exported="false" />
         <activity

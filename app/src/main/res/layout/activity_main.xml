@@ -20,7 +20,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BETA PAY"
+        android:text="BETA PAY🤑"
         android:textColor="@color/white"
         android:fontFamily="cursive"
         android:textSize="60dp"

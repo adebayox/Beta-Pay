@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Beta Pay</string>
+    <string name="select">Select Department</string>
+    <string name="college">Select College</string>
+    <string name="submit">Submit</string>
+    <string name="level">Level</string>
+    <string name="fee">Select Fee</string>
+
+
 </resources>
